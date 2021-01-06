@@ -59,6 +59,7 @@ img {
     font-size: 80px;
     margin: 0;
     font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
 }
 
 .header-help h2 {
@@ -81,7 +82,7 @@ h2 {
 
 .header-help p {
     font-family: 'Roboto', sans-serif;
-    margin: 40px 0;
+    margin: 25px 0;
 }
 
 .btn-link {
